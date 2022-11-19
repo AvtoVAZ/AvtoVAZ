@@ -1,7 +1,7 @@
 15 Year old programmer intrested in Data Science 
 Trying to lern MySQL and Python 
 Contact me via Email (leonidasbitsounis@gmail.com)
-Looking for collaboration with small programers to find exploits and issues in code
+Looking for collaboration with small programmers to find exploits and issues in code
 Thank you! <3
 
 <!---
